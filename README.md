@@ -7,3 +7,6 @@ The need to create easy access to farmers necessitated development of this syste
 versative responsive admin system.
 
 ##How it works
+
+##Admin
+![Farmext Admin snap](https://github.com/theareba/Farmext//public/admin.png?raw=true "Farmext Admin snap")

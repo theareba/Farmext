@@ -29,7 +29,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/users/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="108">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
               <folding />
             </state>
           </provider>
@@ -38,27 +38,26 @@
       <file leaf-file-name="message.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/dashboard/message.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="104" selection-start="1957" selection-end="1957" vertical-scroll-proportion="-32.0" vertical-offset="0" max-vertical-offset="1494">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="48" column="104" selection-start="1957" selection-end="1957" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="1494">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/dashboard/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="32" selection-start="6375" selection-end="6375" vertical-scroll-proportion="0.13584906" vertical-offset="2862" max-vertical-offset="7650">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="163" column="32" selection-start="6375" selection-end="6375" vertical-scroll-proportion="-2.6666667" vertical-offset="2862" max-vertical-offset="7650">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="12" selection-start="305" selection-end="305" vertical-scroll-proportion="0.2706767" vertical-offset="0" max-vertical-offset="532">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,10 +65,8 @@
       <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="22" selection-start="1699" selection-end="1699" vertical-scroll-proportion="-12.296296" vertical-offset="586" max-vertical-offset="2196">
-              <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="51" column="22" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2196">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,10 +74,8 @@
       <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/shared/_header.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="0" selection-start="3568" selection-end="3568" vertical-scroll-proportion="-58.666668" vertical-offset="0" max-vertical-offset="2196">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="88" column="0" selection-start="3568" selection-end="3568" vertical-scroll-proportion="0.0" vertical-offset="1584" max-vertical-offset="2196">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,7 +83,7 @@
       <file leaf-file-name="_sidebar.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/shared/_sidebar.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="31" selection-start="1264" selection-end="1264" vertical-scroll-proportion="-10.962963" vertical-offset="172" max-vertical-offset="972">
+            <state line="26" column="31" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="972">
               <folding />
             </state>
           </provider>
@@ -97,11 +92,8 @@
       <file leaf-file-name="buyers.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/users/buyers.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="0" selection-start="3307" selection-end="3307" vertical-scroll-proportion="-9.62963" vertical-offset="1522" max-vertical-offset="2052">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="99" column="0" selection-start="3307" selection-end="3307" vertical-scroll-proportion="0.0" vertical-offset="1522" max-vertical-offset="2052">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -109,7 +101,7 @@
       <file leaf-file-name="dashboard_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/admin/dashboard_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+            <state line="24" column="0" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -118,19 +110,7 @@
       <file leaf-file-name="farmers.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/admin/users/farmers.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="0" selection-start="3424" selection-end="3424" vertical-scroll-proportion="-12.296296" vertical-offset="1414" max-vertical-offset="2016">
-              <folding>
-                <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="65" selection-start="548" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+            <state line="97" column="0" selection-start="3424" selection-end="3424" vertical-scroll-proportion="0.0" vertical-offset="1414" max-vertical-offset="2016">
               <folding />
             </state>
           </provider>
@@ -204,7 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/vendor/assets/javascripts/typica-login.js.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/sessions.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/sessions.css" />
         <option value="$PROJECT_DIR$/vendor/assets/stylesheets/font-awesome.min.css.erb" />
@@ -255,6 +234,7 @@
         <option value="$PROJECT_DIR$/app/views/admin/users/farmers.html.erb" />
         <option value="$PROJECT_DIR$/app/views/admin/shared/_sidebar.html.erb" />
         <option value="$PROJECT_DIR$/app/views/admin/dashboard/index.html.erb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -728,7 +708,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20692368" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2100708" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -764,13 +744,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/db/schema.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/crawler.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="3" selection-start="503" selection-end="513" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="2682" />
@@ -793,16 +766,16 @@
             <node x="1869.0" y="574.0">ActiveRecord::Associations</node>
             <node x="1851.0" y="463.0">ActiveSupport::Autoload</node>
             <node x="2339.6749285475107" y="372.0">ActiveSupport::Callbacks</node>
-            <node x="5558.022461792357" y="291.0">Paperclip::Validators</node>
             <node x="4003.0224617923564" y="291.0">ActiveModel::Conversion</node>
+            <node x="5558.022461792357" y="291.0">Paperclip::Validators</node>
             <node x="3743.0224617923564" y="574.0">ActiveRecord::ConnectionHandling</node>
             <node x="553.75" y="1043.0">Paperclip::Callbacks</node>
             <node x="2153.5073933892972" y="574.0">ActiveRecord::Explain</node>
-            <node x="4472.022461792357" y="291.0">ActiveRecord::Persistence</node>
             <node x="2488.4249285475107" y="291.0">ActiveRecord::Integration</node>
+            <node x="4472.022461792357" y="291.0">ActiveRecord::Persistence</node>
             <node x="1803.0" y="291.0">ActiveRecord::AttributeMethods::Query</node>
-            <node x="4539.522461792357" y="574.0">ActiveRecord::QueryCache::ClassMethods</node>
             <node x="3064.4315527014473" y="463.0">ActiveRecord::Translation</node>
+            <node x="4539.522461792357" y="574.0">ActiveRecord::QueryCache::ClassMethods</node>
             <node x="2751.4315527014473" y="574.0">ActiveRecord::Serialization</node>
             <node x="3383.9315527014473" y="372.0">ActiveModel::Callbacks</node>
             <node x="2993.576517543234" y="291.0">ActiveModel::Naming</node>
@@ -832,24 +805,24 @@
             <node x="3221.9315527014473" y="372.0">ActiveModel::Validations::HelperMethods</node>
             <node x="5382.022461792357" y="291.0">ActiveRecord::Store</node>
             <node x="3656.0224617923564" y="291.0">ActiveRecord::NestedAttributes</node>
-            <node x="2481.022279424078" y="0.0">ActiveSupport::Concern</node>
             <node x="0.0" y="291.0">ActiveRecord::Inheritance</node>
+            <node x="2481.022279424078" y="0.0">ActiveSupport::Concern</node>
             <node x="3505.0224617923564" y="291.0">ActiveRecord::ModelSchema</node>
             <node x="2369.4249285475107" y="463.0">ActiveModel::Validations::Callbacks</node>
-            <node x="1147.0" y="962.0">Paperclip::ClassMethods</node>
-            <node x="3874.0224617923564" y="291.0">ActiveRecord::Timestamp</node>
             <node x="504.0" y="962.0">Paperclip::Callbacks::Running</node>
+            <node x="3874.0224617923564" y="291.0">ActiveRecord::Timestamp</node>
+            <node x="1147.0" y="962.0">Paperclip::ClassMethods</node>
             <node x="637.0" y="291.0">ActiveRecord::Transactions</node>
             <node x="1717.0" y="291.0">ActiveRecord::AttributeMethods::Read</node>
             <node x="310.1806842099004" y="574.0">ActiveRecord::AttributeAssignment</node>
             <node x="943.9999999999998" y="291.0">ActiveRecord::AttributeMethods::TimeZoneConversion</node>
             <node x="2215.6749285475107" y="291.0">ActiveSupport::DescendantsTracker</node>
             <node x="1278.9999999999998" y="291.0">ActiveRecord::AttributeMethods::PrimaryKey</node>
-            <node x="3091.9315527014473" y="372.0">ActiveModel::Translation</node>
             <node x="1586.0" y="291.0">ActiveRecord::AttributeMethods::Write</node>
+            <node x="3091.9315527014473" y="372.0">ActiveModel::Translation</node>
             <node x="3347.7954545454545" y="805.0">ActiveRecord::Base</node>
-            <node x="4920.022461792357" y="291.0">ActiveRecord::CounterCache</node>
             <node x="4278.022461792357" y="291.0">ActiveRecord::AutosaveAssociation</node>
+            <node x="4920.022461792357" y="291.0">ActiveRecord::CounterCache</node>
             <node x="3250.1315527014476" y="463.0">ActiveModel::Validations</node>
             <node x="5472.022461792357" y="291.0">ActiveRecord::Core</node>
             <node x="2399.1749285475107" y="574.0">ActiveRecord::Callbacks</node>
@@ -870,16 +843,22 @@
               <point x="3174.4315527014473" y="443.0" />
               <point x="27.5" y="15.5" />
             </edge>
+            <edge source="ActiveRecord::Base" target="ActiveRecord::Integration">
+              <point x="-11.314285714285688" y="-15.5" />
+              <point x="3369.481168831169" y="675.0" />
+              <point x="2542.9249285475107" y="675.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
             <edge source="ActiveModel::Validations" target="ActiveModel::Validations::HelperMethods">
               <point x="0.0" y="-15.5" />
               <point x="3303.6315527014476" y="423.0" />
               <point x="3328.4315527014473" y="423.0" />
               <point x="35.5" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Base" target="ActiveRecord::Integration">
-              <point x="-11.314285714285688" y="-15.5" />
-              <point x="3369.481168831169" y="675.0" />
-              <point x="2542.9249285475107" y="675.0" />
+            <edge source="Paperclip::Schema" target="Paperclip::Schema::CommandRecorder">
+              <point x="29.0" y="-15.5" />
+              <point x="231.5" y="1018.0" />
+              <point x="375.5" y="1018.0" />
               <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveModel::Serializers::JSON" target="ActiveModel::Serialization">
@@ -887,12 +866,6 @@
               <point x="2808.5915952141772" y="443.0" />
               <point x="2845.6815527014473" y="443.0" />
               <point x="-28.75" y="15.5" />
-            </edge>
-            <edge source="Paperclip::Schema" target="Paperclip::Schema::CommandRecorder">
-              <point x="29.0" y="-15.5" />
-              <point x="231.5" y="1018.0" />
-              <point x="375.5" y="1018.0" />
-              <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Validations" target="ActiveSupport::Concern">
               <point x="26.75" y="-15.5" />
@@ -902,12 +875,6 @@
               <point x="2540.613188514987" y="201.0" />
               <point x="13.590909090909008" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Scoping" target="ActiveRecord::Scoping::Named">
-              <point x="-10.875" y="-15.5" />
-              <point x="2079.1323933892972" y="544.0" />
-              <point x="2023.4375" y="544.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
             <edge source="ActiveModel::Serializers::Xml" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
               <point x="2932.3065527014473" y="443.0" />
@@ -915,6 +882,12 @@
               <point x="2942.4315527014473" y="221.0" />
               <point x="2536.431370333169" y="221.0" />
               <point x="9.409090909090992" y="15.5" />
+            </edge>
+            <edge source="ActiveRecord::Scoping" target="ActiveRecord::Scoping::Named">
+              <point x="-10.875" y="-15.5" />
+              <point x="2079.1323933892972" y="544.0" />
+              <point x="2023.4375" y="544.0" />
+              <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Persistence" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
@@ -1028,11 +1001,11 @@
               <point x="4365.022461792357" y="685.0" />
               <point x="0.0" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Transactions" target="ActiveSupport::Concern">
+            <edge source="ActiveRecord::Store" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
-              <point x="697.5" y="91.0" />
-              <point x="2488.34046124226" y="91.0" />
-              <point x="-38.68181818181802" y="15.5" />
+              <point x="5417.022461792357" y="71.0" />
+              <point x="2567.795006696805" y="71.0" />
+              <point x="40.77272727272748" y="15.5" />
             </edge>
             <edge source="ActiveRecord::AttributeMethods::Serialization" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
@@ -1040,23 +1013,23 @@
               <point x="2494.613188514987" y="121.0" />
               <point x="-32.40909090909099" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Store" target="ActiveSupport::Concern">
+            <edge source="ActiveRecord::Transactions" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
-              <point x="5417.022461792357" y="71.0" />
-              <point x="2567.795006696805" y="71.0" />
-              <point x="40.77272727272748" y="15.5" />
-            </edge>
-            <edge source="ActiveRecord::Associations" target="ActiveSupport::Concern">
-              <point x="29.25" y="-15.5" />
-              <point x="1956.5" y="211.0" />
-              <point x="2513.431370333169" y="211.0" />
-              <point x="-13.590909090909008" y="15.5" />
+              <point x="697.5" y="91.0" />
+              <point x="2488.34046124226" y="91.0" />
+              <point x="-38.68181818181802" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Serialization" target="ActiveModel::Serializers::Xml">
               <point x="38.333333333333485" y="-15.5" />
               <point x="2847.264886034781" y="554.0" />
               <point x="2932.3065527014473" y="554.0" />
               <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ActiveRecord::Associations" target="ActiveSupport::Concern">
+              <point x="29.25" y="-15.5" />
+              <point x="1956.5" y="211.0" />
+              <point x="2513.431370333169" y="211.0" />
+              <point x="-13.590909090909008" y="15.5" />
             </edge>
             <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::Write">
               <point x="14.272727272727252" y="-15.5" />
@@ -1096,17 +1069,17 @@
               <point x="3067.951517543234" y="352.0" />
               <point x="31.875" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Scoping" target="ActiveRecord::Scoping::Default">
-              <point x="10.875" y="-15.5" />
-              <point x="2100.8823933892972" y="544.0" />
-              <point x="2126.9375" y="544.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
             <edge source="ActiveModel::SecurePassword" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
               <point x="4825.522461792357" y="111.0" />
               <point x="2559.431370333169" y="111.0" />
               <point x="32.40909090909099" y="15.5" />
+            </edge>
+            <edge source="ActiveRecord::Scoping" target="ActiveRecord::Scoping::Default">
+              <point x="10.875" y="-15.5" />
+              <point x="2100.8823933892972" y="544.0" />
+              <point x="2126.9375" y="544.0" />
+              <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Integration" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
@@ -1114,22 +1087,16 @@
               <point x="2528.067733969532" y="261.0" />
               <point x="1.0454545454545041" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::TimeZoneConversion">
-              <point x="-57.09090909090901" y="-15.5" />
-              <point x="1391.159090909091" y="544.0" />
-              <point x="1033.9999999999998" y="544.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
             <edge source="ActiveRecord::Scoping" target="ActiveSupport::Autoload">
               <point x="-32.625" y="-15.5" />
               <point x="2057.3823933892972" y="554.0" />
               <point x="1930.1666666666667" y="554.0" />
               <point x="31.666666666666742" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Base" target="ActiveRecord::Timestamp">
-              <point x="7.542857142856974" y="-15.5" />
-              <point x="3388.3383116883115" y="655.0" />
-              <point x="3928.5224617923564" y="655.0" />
+            <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::TimeZoneConversion">
+              <point x="-57.09090909090901" y="-15.5" />
+              <point x="1391.159090909091" y="544.0" />
+              <point x="1033.9999999999998" y="544.0" />
               <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::ReadonlyAttributes" target="ActiveSupport::Concern">
@@ -1137,6 +1104,12 @@
               <point x="5156.522461792357" y="91.0" />
               <point x="2563.613188514987" y="91.0" />
               <point x="36.59090909090901" y="15.5" />
+            </edge>
+            <edge source="ActiveRecord::Base" target="ActiveRecord::Timestamp">
+              <point x="7.542857142856974" y="-15.5" />
+              <point x="3388.3383116883115" y="655.0" />
+              <point x="3928.5224617923564" y="655.0" />
+              <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Base" target="ActiveRecord::Locking::Pessimistic">
               <point x="-15.085714285714403" y="-15.5" />
@@ -1468,6 +1441,10 @@
               <point x="2546.885915787714" y="171.0" />
               <point x="19.863636363636488" y="15.5" />
             </edge>
+            <edge source="Admin" target="ActiveRecord::Base">
+              <point x="0.0" y="-15.5" />
+              <point x="0.0" y="15.5" />
+            </edge>
             <edge source="ActiveRecord::Callbacks" target="ActiveSupport::Concern">
               <point x="24.5" y="-15.5" />
               <point x="2472.6749285475107" y="554.0" />
@@ -1476,9 +1453,9 @@
               <point x="2525.976824878623" y="271.0" />
               <point x="-1.0454545454545041" y="15.5" />
             </edge>
-            <edge source="Admin" target="ActiveRecord::Base">
+            <edge source="ActiveRecord::Translation" target="ActiveModel::Translation">
               <point x="0.0" y="-15.5" />
-              <point x="0.0" y="15.5" />
+              <point x="-27.5" y="15.5" />
             </edge>
             <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::PrimaryKey">
               <point x="-28.545454545454504" y="-15.5" />
@@ -1486,15 +1463,17 @@
               <point x="1333.4999999999998" y="524.0" />
               <point x="0.0" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Translation" target="ActiveModel::Translation">
-              <point x="0.0" y="-15.5" />
-              <point x="-27.5" y="15.5" />
-            </edge>
             <edge source="ActiveRecord::Base" target="ActiveRecord::Sanitization">
               <point x="-9.428571428571558" y="-15.5" />
               <point x="3371.366883116883" y="665.0" />
               <point x="2672.9249285475107" y="665.0" />
               <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ActiveSupport::Callbacks" target="ActiveSupport::Concern">
+              <point x="24.5" y="-15.5" />
+              <point x="2413.1749285475107" y="251.0" />
+              <point x="2521.795006696805" y="251.0" />
+              <point x="-5.227272727272521" y="15.5" />
             </edge>
             <edge source="ActiveModel::Validations" target="ActiveSupport::Concern">
               <point x="42.80000000000018" y="-15.5" />
@@ -1504,23 +1483,11 @@
               <point x="2538.522279424078" y="211.0" />
               <point x="11.5" y="15.5" />
             </edge>
-            <edge source="ActiveSupport::Callbacks" target="ActiveSupport::Concern">
-              <point x="24.5" y="-15.5" />
-              <point x="2413.1749285475107" y="251.0" />
-              <point x="2521.795006696805" y="251.0" />
-              <point x="-5.227272727272521" y="15.5" />
-            </edge>
             <edge source="ActiveRecord::Callbacks" target="ActiveModel::Validations::Callbacks">
               <point x="-24.5" y="-15.5" />
               <point x="2423.6749285475107" y="554.0" />
               <point x="2418.4249285475107" y="554.0" />
               <point x="0.0" y="15.5" />
-            </edge>
-            <edge source="ActiveRecord::AttributeMethods::Query" target="ActiveSupport::Concern">
-              <point x="0.0" y="-15.5" />
-              <point x="1840.5" y="201.0" />
-              <point x="2511.34046124226" y="201.0" />
-              <point x="-15.681818181818016" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Reflection" target="ActiveSupport::Concern">
               <point x="0.0" y="-15.5" />
@@ -1528,16 +1495,22 @@
               <point x="2565.704097605896" y="81.0" />
               <point x="38.68181818181802" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::Base" target="ActiveRecord::CounterCache">
-              <point x="22.628571428571377" y="-15.5" />
-              <point x="3403.424025974026" y="735.0" />
-              <point x="4987.022461792357" y="735.0" />
-              <point x="0.0" y="15.5" />
+            <edge source="ActiveRecord::AttributeMethods::Query" target="ActiveSupport::Concern">
+              <point x="0.0" y="-15.5" />
+              <point x="1840.5" y="201.0" />
+              <point x="2511.34046124226" y="201.0" />
+              <point x="-15.681818181818016" y="15.5" />
             </edge>
             <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::BeforeTypeCast">
               <point x="-71.36363636363649" y="-15.5" />
               <point x="1376.8863636363635" y="554.0" />
               <point x="850.9999999999998" y="554.0" />
+              <point x="0.0" y="15.5" />
+            </edge>
+            <edge source="ActiveRecord::Base" target="ActiveRecord::CounterCache">
+              <point x="22.628571428571377" y="-15.5" />
+              <point x="3403.424025974026" y="735.0" />
+              <point x="4987.022461792357" y="735.0" />
               <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Base" target="ActiveRecord::Aggregations">
@@ -1546,17 +1519,17 @@
               <point x="4195.522461792356" y="675.0" />
               <point x="0.0" y="15.5" />
             </edge>
-            <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::Serialization">
-              <point x="-42.818181818181756" y="-15.5" />
-              <point x="1405.4318181818182" y="534.0" />
-              <point x="1201.4999999999998" y="534.0" />
-              <point x="0.0" y="15.5" />
-            </edge>
             <edge source="ActiveSupport::Callbacks" target="ActiveSupport::DescendantsTracker">
               <point x="-24.5" y="-15.5" />
               <point x="2364.1749285475107" y="352.0" />
               <point x="2349.1749285475107" y="352.0" />
               <point x="44.5" y="15.5" />
+            </edge>
+            <edge source="ActiveRecord::AttributeMethods" target="ActiveRecord::AttributeMethods::Serialization">
+              <point x="-42.818181818181756" y="-15.5" />
+              <point x="1405.4318181818182" y="534.0" />
+              <point x="1201.4999999999998" y="534.0" />
+              <point x="0.0" y="15.5" />
             </edge>
             <edge source="ActiveRecord::Base" target="ActiveRecord::Scoping">
               <point x="-20.742857142857247" y="-15.5" />
@@ -1594,9 +1567,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140619062921_create_products.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <folding />
-        </state>
+        <state line="8" column="5" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288" />
       </provider>
     </entry>
     <entry file="uml://RailsDependency/#Ukulima">
@@ -1646,16 +1617,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="70" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
-          <folding />
-        </state>
+        <state line="2" column="2" selection-start="70" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/product.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="62" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="6" column="62" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/admin.rb">
@@ -1665,58 +1632,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="68.111115" vertical-offset="1839" max-vertical-offset="2394">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="68.111115" vertical-offset="1839" max-vertical-offset="2394" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/users/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="414">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="400" selection-end="400" vertical-scroll-proportion="-11.333333" vertical-offset="0" max-vertical-offset="414" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/admins/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="108">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="108" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/products.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="396">
-          <folding />
-        </state>
+        <state line="2" column="6" selection-start="29" selection-end="29" vertical-scroll-proportion="-1.3333334" vertical-offset="0" max-vertical-offset="396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/products.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
-          <folding />
-        </state>
+        <state line="3" column="0" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/sugoi/infinite-woodland-5276.herokuapp.com/pages-signin.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="20" selection-start="2484" selection-end="2655" vertical-scroll-proportion="-8.814815" vertical-offset="1004" max-vertical-offset="3582">
-          <folding />
-        </state>
+        <state line="69" column="20" selection-start="2484" selection-end="2655" vertical-scroll-proportion="-8.814815" vertical-offset="1004" max-vertical-offset="3582" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/assets/stylesheets/pixel-admin.min.css">
@@ -1728,166 +1679,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/admins/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="93" selection-end="93" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/users.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="0" selection-end="177" vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="0" selection-end="177" vertical-scroll-proportion="-2.6666667" vertical-offset="0" max-vertical-offset="180" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="645" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="645" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="523" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="523" selection-end="548" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/sugoi/infinite-woodland-5276.herokuapp.com/tables.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1535" column="33" selection-start="35168" selection-end="48176" vertical-scroll-proportion="-15.481482" vertical-offset="27212" max-vertical-offset="28278">
-          <folding />
-        </state>
+        <state line="1535" column="33" selection-start="35168" selection-end="48176" vertical-scroll-proportion="-15.481482" vertical-offset="27212" max-vertical-offset="28278" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/sugoi/infinite-woodland-5276.herokuapp.com/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="424" column="158" selection-start="17735" selection-end="17778" vertical-scroll-proportion="-3.2105262" vertical-offset="7449" max-vertical-offset="29232">
-          <folding />
-        </state>
+        <state line="424" column="158" selection-start="17735" selection-end="17778" vertical-scroll-proportion="-3.2105262" vertical-offset="7449" max-vertical-offset="29232" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="436" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="436" selection-end="441" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/sessions_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <folding />
-        </state>
+        <state line="19" column="3" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140619064038_farmers_products_join_table.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140619182311_create_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140619190138_create_products_users_join_table.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288">
-          <folding />
-        </state>
+        <state line="5" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140621092415_create_admins.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140622151726_add_avatar_to_admins.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140623083640_drop_table_farmers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="23" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="2" column="23" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140623083706_drop_table_farmers_products.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="2" column="32" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140905113846_create_prices.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="24" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
+        <state line="5" column="24" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140905135725_remove_price_from_products.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="2" column="35" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140906124606_change_price_amount_type.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="2" column="35" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140924151400_add_activity_to_users.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="198" />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/sugoi/infinite-woodland-5276.herokuapp.com/pages-new-email.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="4" selection-start="2788" selection-end="2858" vertical-scroll-proportion="-7.0740743" vertical-offset="1357" max-vertical-offset="7686">
-          <folding>
-            <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="86" column="4" selection-start="2788" selection-end="2858" vertical-scroll-proportion="-7.0740743" vertical-offset="1357" max-vertical-offset="7686" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/admin/admins_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="57" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <folding />
-        </state>
+        <state line="2" column="2" selection-start="57" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="14" selection-start="1248" selection-end="1348" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="4626">
-          <folding />
-        </state>
+        <state line="52" column="14" selection-start="1248" selection-end="1348" vertical-scroll-proportion="0.0" vertical-offset="684" max-vertical-offset="4626" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/admin/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-          <folding />
-        </state>
+        <state line="17" column="5" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
@@ -1906,49 +1808,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/sessions/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="22" selection-start="1699" selection-end="1699" vertical-scroll-proportion="-12.296296" vertical-offset="586" max-vertical-offset="2196">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="51" column="22" selection-start="1699" selection-end="1699" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2196">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/dashboard/message.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="104" selection-start="1957" selection-end="1957" vertical-scroll-proportion="-32.0" vertical-offset="0" max-vertical-offset="1494">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="48" column="104" selection-start="1957" selection-end="1957" vertical-scroll-proportion="0.0" vertical-offset="864" max-vertical-offset="1494">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/shared/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="0" selection-start="3568" selection-end="3568" vertical-scroll-proportion="-58.666668" vertical-offset="0" max-vertical-offset="2196">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="88" column="0" selection-start="3568" selection-end="3568" vertical-scroll-proportion="0.0" vertical-offset="1584" max-vertical-offset="2196">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/users/buyers.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="0" selection-start="3307" selection-end="3307" vertical-scroll-proportion="-9.62963" vertical-offset="1522" max-vertical-offset="2052">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="99" column="0" selection-start="3307" selection-end="3307" vertical-scroll-proportion="0.0" vertical-offset="1522" max-vertical-offset="2052">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/users/farmers.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="0" selection-start="3424" selection-end="3424" vertical-scroll-proportion="-12.296296" vertical-offset="1414" max-vertical-offset="2016">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="97" column="0" selection-start="3424" selection-end="3424" vertical-scroll-proportion="0.0" vertical-offset="1414" max-vertical-offset="2016">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1961,22 +1850,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/shared/_sidebar.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="31" selection-start="1264" selection-end="1264" vertical-scroll-proportion="-10.962963" vertical-offset="172" max-vertical-offset="972">
+        <state line="26" column="31" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="972">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/admin/dashboard/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="32" selection-start="6375" selection-end="6375" vertical-scroll-proportion="0.13584906" vertical-offset="2862" max-vertical-offset="7650">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="163" column="32" selection-start="6375" selection-end="6375" vertical-scroll-proportion="-2.6666667" vertical-offset="2862" max-vertical-offset="7650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="305" selection-end="305" vertical-scroll-proportion="0.2706767" vertical-offset="0" max-vertical-offset="532">
+          <folding />
         </state>
       </provider>
     </entry>

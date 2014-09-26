@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4070092244">
+    <data-source source="LOCAL" name="Rails Ukulima: development" uuid="eb654dd8-f58c-434e-8f0a-bf54703e11b9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Ukulima_development</jdbc-url>
+      <user-name>theareba</user-name>
+      <user-password>dfdedfc2dfcfdfcbdfd8dfcfdfc8dfcbdf98df93</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Ukulima: test" uuid="26fa30ec-2083-4532-9899-a72c9211c416">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Ukulima_test</jdbc-url>
+      <user-name>theareba</user-name>
+      <user-password>dfdedfc2dfcfdfcbdfd8dfcfdfc8dfcbdf98df93</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Ukulima: production" uuid="e3e40043-47d8-4757-a8c8-a000350e01dc">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Ukulima_production</jdbc-url>
+      <user-name>Ukulima</user-name>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

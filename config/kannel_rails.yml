@@ -1,0 +1,5 @@
+development:
+  kannel_url: http://127.0.0.1:13013/cgi-bin/sendsms?username=theareba&password=theareba29
+  sendsms_port: 13013 # Kannel sendsms port
+  username: theareba
+  password: theareba29

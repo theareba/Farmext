@@ -9,4 +9,4 @@ versative responsive admin system.
 ##How it works
 
 ##Admin
-![Farmext Admin snap](https://github.com/theareba/Farmext//public/admin.png?raw=true "Farmext Admin snap")
+![Farmext Admin snap](https://github.com/theareba/Farmext/blob/master/public/admin.png "Farmext Admin snap")
